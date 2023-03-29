@@ -10,7 +10,8 @@ This is the official website for the Google Developer Student Clubs (GDSC) at [Y
 >- Contact page with a contact form for getting in touch with our team.
 
 ### Installation and Usage
+Visit our website here: 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a1d035d0-b42c-4787-b6bb-ac1a17d695ea/deploy-status)](https://app.netlify.com/sites/gdscsdsfdavv/deploys)
 
-License
+### License
 This website is licensed under the GDSC-SDSF.
